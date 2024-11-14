@@ -34,10 +34,10 @@ com.example.emailapplication.app-material-icons-core-1.2.0-32 C:\Users\ks692\.gr
 com.example.emailapplication.app-ui-test-manifest-1.2.0-33 C:\Users\ks692\.gradle\caches\transforms-3\f97b819ec9ad3142ce90fb307b86cb52\transformed\ui-test-manifest-1.2.0\res
 com.example.emailapplication.app-ui-geometry-1.2.0-34 C:\Users\ks692\.gradle\caches\transforms-3\f992569989b941fc3a9892cc105ff944\transformed\ui-geometry-1.2.0\res
 com.example.emailapplication.app-runtime-saveable-1.2.0-35 C:\Users\ks692\.gradle\caches\transforms-3\fca93a49b04c2ab8417ae529f5d70012\transformed\runtime-saveable-1.2.0\res
-com.example.emailapplication.app-resValues-36 F:\New folder\AdaptiveEmailApp\AdaptiveEmailApp-main\app\build\generated\res\resValues\debug
-com.example.emailapplication.app-rs-37 F:\New folder\AdaptiveEmailApp\AdaptiveEmailApp-main\app\build\generated\res\rs\debug
-com.example.emailapplication.app-packageDebugResources-38 F:\New folder\AdaptiveEmailApp\AdaptiveEmailApp-main\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.emailapplication.app-packageDebugResources-39 F:\New folder\AdaptiveEmailApp\AdaptiveEmailApp-main\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.emailapplication.app-merged_res-40 F:\New folder\AdaptiveEmailApp\AdaptiveEmailApp-main\app\build\intermediates\merged_res\debug
-com.example.emailapplication.app-debug-41 F:\New folder\AdaptiveEmailApp\AdaptiveEmailApp-main\app\src\debug\res
-com.example.emailapplication.app-main-42 F:\New folder\AdaptiveEmailApp\AdaptiveEmailApp-main\app\src\main\res
+com.example.emailapplication.app-resValues-36 F:\New folder\AdaptiveEmailApp\EmailApp\app\build\generated\res\resValues\debug
+com.example.emailapplication.app-rs-37 F:\New folder\AdaptiveEmailApp\EmailApp\app\build\generated\res\rs\debug
+com.example.emailapplication.app-packageDebugResources-38 F:\New folder\AdaptiveEmailApp\EmailApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.emailapplication.app-packageDebugResources-39 F:\New folder\AdaptiveEmailApp\EmailApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.emailapplication.app-merged_res-40 F:\New folder\AdaptiveEmailApp\EmailApp\app\build\intermediates\merged_res\debug
+com.example.emailapplication.app-debug-41 F:\New folder\AdaptiveEmailApp\EmailApp\app\src\debug\res
+com.example.emailapplication.app-main-42 F:\New folder\AdaptiveEmailApp\EmailApp\app\src\main\res
