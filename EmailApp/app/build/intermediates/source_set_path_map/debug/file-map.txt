@@ -1,0 +1,43 @@
+com.example.emailapplication.app-ui-util-1.2.0-0 C:\Users\ks692\.gradle\caches\transforms-3\00c0440b23d05a45a7e45ab1a8c53d65\transformed\ui-util-1.2.0\res
+com.example.emailapplication.app-annotation-experimental-1.1.0-1 C:\Users\ks692\.gradle\caches\transforms-3\03284d3fb79836529ae3c1a3e69df16c\transformed\annotation-experimental-1.1.0\res
+com.example.emailapplication.app-startup-runtime-1.1.1-2 C:\Users\ks692\.gradle\caches\transforms-3\171129f16ad56458235b5a494592b4a4\transformed\startup-runtime-1.1.1\res
+com.example.emailapplication.app-ui-1.2.0-3 C:\Users\ks692\.gradle\caches\transforms-3\24d013a6dbff2efe321eee5ee35151f2\transformed\ui-1.2.0\res
+com.example.emailapplication.app-foundation-1.2.0-4 C:\Users\ks692\.gradle\caches\transforms-3\2e8d194fc3e56261714d0fdc1a6d8b29\transformed\foundation-1.2.0\res
+com.example.emailapplication.app-profileinstaller-1.2.0-5 C:\Users\ks692\.gradle\caches\transforms-3\2f86814a70c9fbbbebb59181edb21d2b\transformed\profileinstaller-1.2.0\res
+com.example.emailapplication.app-ui-tooling-1.2.0-6 C:\Users\ks692\.gradle\caches\transforms-3\33d9d3e6c3d05f9ee4e77ead962c8529\transformed\ui-tooling-1.2.0\res
+com.example.emailapplication.app-room-runtime-2.5.0-7 C:\Users\ks692\.gradle\caches\transforms-3\382de7a486a0107b644c21a77e7dd08f\transformed\room-runtime-2.5.0\res
+com.example.emailapplication.app-material-1.2.0-8 C:\Users\ks692\.gradle\caches\transforms-3\3ae97fdf2ae37033fc5e3461a51bc35b\transformed\material-1.2.0\res
+com.example.emailapplication.app-material-ripple-1.2.0-9 C:\Users\ks692\.gradle\caches\transforms-3\3d0ccc993ce15f1ea3290bacf33eb03f\transformed\material-ripple-1.2.0\res
+com.example.emailapplication.app-room-ktx-2.5.0-10 C:\Users\ks692\.gradle\caches\transforms-3\3ebdf25b5e29d658bfcda51c424fafb8\transformed\room-ktx-2.5.0\res
+com.example.emailapplication.app-sqlite-2.3.0-11 C:\Users\ks692\.gradle\caches\transforms-3\41300eb3d4bc582e4eb414f40619289c\transformed\sqlite-2.3.0\res
+com.example.emailapplication.app-core-1.7.0-12 C:\Users\ks692\.gradle\caches\transforms-3\4fb4e561837dc7acc3dc1d2104fc434a\transformed\core-1.7.0\res
+com.example.emailapplication.app-animation-1.1.1-13 C:\Users\ks692\.gradle\caches\transforms-3\53e52062e2a2ae6b7daa01e1f7f5035c\transformed\animation-1.1.1\res
+com.example.emailapplication.app-lifecycle-runtime-2.3.1-14 C:\Users\ks692\.gradle\caches\transforms-3\6700230c6b41b3107d09984ec5770422\transformed\lifecycle-runtime-2.3.1\res
+com.example.emailapplication.app-activity-1.3.1-15 C:\Users\ks692\.gradle\caches\transforms-3\6708fd849d13440f004782c23e729413\transformed\activity-1.3.1\res
+com.example.emailapplication.app-ui-graphics-1.2.0-16 C:\Users\ks692\.gradle\caches\transforms-3\6c7efe3066686ee63f32fa1feccfb408\transformed\ui-graphics-1.2.0\res
+com.example.emailapplication.app-ui-tooling-preview-1.2.0-17 C:\Users\ks692\.gradle\caches\transforms-3\6f36cb2c9c384eeaa0b1d3033a9e01dd\transformed\ui-tooling-preview-1.2.0\res
+com.example.emailapplication.app-core-ktx-1.7.0-18 C:\Users\ks692\.gradle\caches\transforms-3\713b97764c5c2d0ff7133ab12822eced\transformed\core-ktx-1.7.0\res
+com.example.emailapplication.app-ui-text-1.2.0-19 C:\Users\ks692\.gradle\caches\transforms-3\783c194c7a93867828f0e0d1262d91e0\transformed\ui-text-1.2.0\res
+com.example.emailapplication.app-lifecycle-viewmodel-2.3.1-20 C:\Users\ks692\.gradle\caches\transforms-3\7b81a6a569525eeab2fe74fae1a1165e\transformed\lifecycle-viewmodel-2.3.1\res
+com.example.emailapplication.app-ui-tooling-data-1.2.0-21 C:\Users\ks692\.gradle\caches\transforms-3\891ca7cc08761009983d96864509e090\transformed\ui-tooling-data-1.2.0\res
+com.example.emailapplication.app-savedstate-ktx-1.2.0-22 C:\Users\ks692\.gradle\caches\transforms-3\9532b1d19a2c173e88782de21f4f4c5b\transformed\savedstate-ktx-1.2.0\res
+com.example.emailapplication.app-animation-core-1.1.1-23 C:\Users\ks692\.gradle\caches\transforms-3\962632e745bb2f39b79e1597bba9847b\transformed\animation-core-1.1.1\res
+com.example.emailapplication.app-foundation-layout-1.2.0-24 C:\Users\ks692\.gradle\caches\transforms-3\a312c87306b0b4dba49ac38a5a3459e2\transformed\foundation-layout-1.2.0\res
+com.example.emailapplication.app-ui-unit-1.2.0-25 C:\Users\ks692\.gradle\caches\transforms-3\b2f67cd6eeaa8f78176ae2f532a72c4d\transformed\ui-unit-1.2.0\res
+com.example.emailapplication.app-savedstate-1.2.0-26 C:\Users\ks692\.gradle\caches\transforms-3\b567545917b13457bb765c3654f1517b\transformed\savedstate-1.2.0\res
+com.example.emailapplication.app-runtime-1.2.0-27 C:\Users\ks692\.gradle\caches\transforms-3\b8e2a42ce05af9a0a6308d7118f339c0\transformed\runtime-1.2.0\res
+com.example.emailapplication.app-activity-ktx-1.3.1-28 C:\Users\ks692\.gradle\caches\transforms-3\c140311ef237bdc85d05efadd7f5ed4f\transformed\activity-ktx-1.3.1\res
+com.example.emailapplication.app-sqlite-framework-2.3.0-29 C:\Users\ks692\.gradle\caches\transforms-3\c9d50644ae9843d5d88e6ff5b80bd91d\transformed\sqlite-framework-2.3.0\res
+com.example.emailapplication.app-activity-compose-1.3.1-30 C:\Users\ks692\.gradle\caches\transforms-3\df8ce68c1d4f4d7b7d1e4adcbc716591\transformed\activity-compose-1.3.1\res
+com.example.emailapplication.app-customview-poolingcontainer-1.0.0-31 C:\Users\ks692\.gradle\caches\transforms-3\e2e7fa32310b790443caa0d5f7914e7d\transformed\customview-poolingcontainer-1.0.0\res
+com.example.emailapplication.app-material-icons-core-1.2.0-32 C:\Users\ks692\.gradle\caches\transforms-3\f8c1aae63d54f5d278e0dd47cad399dc\transformed\material-icons-core-1.2.0\res
+com.example.emailapplication.app-ui-test-manifest-1.2.0-33 C:\Users\ks692\.gradle\caches\transforms-3\f97b819ec9ad3142ce90fb307b86cb52\transformed\ui-test-manifest-1.2.0\res
+com.example.emailapplication.app-ui-geometry-1.2.0-34 C:\Users\ks692\.gradle\caches\transforms-3\f992569989b941fc3a9892cc105ff944\transformed\ui-geometry-1.2.0\res
+com.example.emailapplication.app-runtime-saveable-1.2.0-35 C:\Users\ks692\.gradle\caches\transforms-3\fca93a49b04c2ab8417ae529f5d70012\transformed\runtime-saveable-1.2.0\res
+com.example.emailapplication.app-resValues-36 F:\New folder\AdaptiveEmailApp\AdaptiveEmailApp-main\app\build\generated\res\resValues\debug
+com.example.emailapplication.app-rs-37 F:\New folder\AdaptiveEmailApp\AdaptiveEmailApp-main\app\build\generated\res\rs\debug
+com.example.emailapplication.app-packageDebugResources-38 F:\New folder\AdaptiveEmailApp\AdaptiveEmailApp-main\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.emailapplication.app-packageDebugResources-39 F:\New folder\AdaptiveEmailApp\AdaptiveEmailApp-main\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.emailapplication.app-merged_res-40 F:\New folder\AdaptiveEmailApp\AdaptiveEmailApp-main\app\build\intermediates\merged_res\debug
+com.example.emailapplication.app-debug-41 F:\New folder\AdaptiveEmailApp\AdaptiveEmailApp-main\app\src\debug\res
+com.example.emailapplication.app-main-42 F:\New folder\AdaptiveEmailApp\AdaptiveEmailApp-main\app\src\main\res
