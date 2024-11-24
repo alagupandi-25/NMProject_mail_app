@@ -22,8 +22,8 @@ com.example.emailapplication.test.app-customview-poolingcontainer-1.0.0-20 C:\Us
 com.example.emailapplication.test.app-core-1.5.0-21 C:\Users\ks692\.gradle\caches\transforms-3\e6ebffe41bc3deb629d933518b0a5a9a\transformed\core-1.5.0\res
 com.example.emailapplication.test.app-ui-geometry-1.2.0-22 C:\Users\ks692\.gradle\caches\transforms-3\f992569989b941fc3a9892cc105ff944\transformed\ui-geometry-1.2.0\res
 com.example.emailapplication.test.app-runtime-saveable-1.2.0-23 C:\Users\ks692\.gradle\caches\transforms-3\fca93a49b04c2ab8417ae529f5d70012\transformed\runtime-saveable-1.2.0\res
-com.example.emailapplication.test.app-androidTest-24 F:\New folder\AdaptiveEmailApp\AdaptiveEmailApp-main\app\build\generated\res\resValues\androidTest\debug
-com.example.emailapplication.test.app-androidTest-25 F:\New folder\AdaptiveEmailApp\AdaptiveEmailApp-main\app\build\generated\res\rs\androidTest\debug
-com.example.emailapplication.test.app-mergeDebugAndroidTestResources-26 F:\New folder\AdaptiveEmailApp\AdaptiveEmailApp-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.example.emailapplication.test.app-mergeDebugAndroidTestResources-27 F:\New folder\AdaptiveEmailApp\AdaptiveEmailApp-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.example.emailapplication.test.app-merged_res-28 F:\New folder\AdaptiveEmailApp\AdaptiveEmailApp-main\app\build\intermediates\merged_res\debugAndroidTest
+com.example.emailapplication.test.app-androidTest-24 F:\New folder\AdaptiveEmailApp\EmailApp\app\build\generated\res\resValues\androidTest\debug
+com.example.emailapplication.test.app-androidTest-25 F:\New folder\AdaptiveEmailApp\EmailApp\app\build\generated\res\rs\androidTest\debug
+com.example.emailapplication.test.app-mergeDebugAndroidTestResources-26 F:\New folder\AdaptiveEmailApp\EmailApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.emailapplication.test.app-mergeDebugAndroidTestResources-27 F:\New folder\AdaptiveEmailApp\EmailApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.emailapplication.test.app-merged_res-28 F:\New folder\AdaptiveEmailApp\EmailApp\app\build\intermediates\merged_res\debugAndroidTest
